@@ -1,0 +1,37 @@
+{
+  "id": "graungs-guide-to-golarion-mutagenic-gastronomy",
+  "title": "Graung's Guide to Golarion: Mutagenic Gastronomy",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "description": "Foundry Module for Graung's Guide to Golarion: Mutagenic Gastronomy by Ian Speidel",
+  "authors": [
+    {
+      "name": "Ian Speidel",
+      "discord": "AyeSpydie",
+      "email": "ayespydie@gmail.com",
+      "url": "patreon.com/AyeSpydie",
+      "flags": {}
+    }
+  ],
+  "url": "https://www.pathfinderinfinite.com/product/477298/Graungs-Guide-to-Golarion-Mutagenic-Gastronomy?affiliate_id=3903227",
+  "packs": [
+    {
+      "name": "pack-1",
+      "label": "GGtG: Mutagenic Gastronomy",
+      "path": "packs/pack-1",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e",
+      "flags": {}
+    }
+  ],
+  "url": "https://github.com/ISpaiXmenFood/XmenFoodPatreon",
+  "manifest": "https://raw.githubusercontent.com/ISpaiXmenFood/Graung-s-Guide-to-Golarion-Mutagenic-Gastronomy/master/module.json",
+  "download": "https://github.com/ISpaiXmenFood/Graung-s-Guide-to-Golarion-Mutagenic-Gastronomy/archive/refs/heads/main.zip"
+}
