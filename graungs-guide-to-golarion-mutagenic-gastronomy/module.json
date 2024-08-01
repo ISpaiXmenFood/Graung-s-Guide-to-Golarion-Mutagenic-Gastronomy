@@ -1,10 +1,10 @@
 {
   "id": "graungs-guide-to-golarion-mutagenic-gastronomy",
   "title": "Graung's Guide to Golarion: Mutagenic Gastronomy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "compatibility": {
     "minimum": "11",
-    "verified": "11"
+    "verified": "12"
   },
   "description": "Foundry Module for Graung's Guide to Golarion: Mutagenic Gastronomy by Ian Speidel",
   "authors": [
