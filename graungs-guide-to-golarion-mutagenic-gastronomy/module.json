@@ -1,7 +1,7 @@
 {
   "id": "graungs-guide-to-golarion-mutagenic-gastronomy",
   "title": "Graung's Guide to Golarion: Mutagenic Gastronomy",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "compatibility": {
     "minimum": "11",
     "verified": "12"
@@ -29,6 +29,22 @@
       },
       "system": "pf2e",
       "flags": {}
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "Graung's Guide to Golarion",
+      "sorting": "a",
+      "packs": [],
+      "folders": [
+        {
+          "name": "Mutagenic Gastronomy",
+          "sorting": "m",
+          "packs": [
+            "pack-1"
+          ]
+        }
+      ]
     }
   ],
   "url": "https://github.com/ISpaiXmenFood/XmenFoodPatreon",
